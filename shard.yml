@@ -1,0 +1,20 @@
+name: nfcreader-tf
+version: 0.1.0
+
+description: |
+  A simple helper program that accesses a Tinkerforge NFC sensor and prints out recognized NFC tags on STDOUT.
+
+authors:
+  - Mastory Berlin <info@mastory.de>
+
+targets:
+  nfcreader-tf:
+    main: src/nfcreader-tf.cr
+
+dependencies:
+  tinkerforge:
+    github: felitarou/tinkerforge
+
+crystal: 0.35.1
+
+license: MIT

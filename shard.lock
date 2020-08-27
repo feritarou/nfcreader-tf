@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  tinkerforge:
+    path: /home/felix/Mastory/tinkerforge
+    version: 0.2.0
+
