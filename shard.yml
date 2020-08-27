@@ -5,7 +5,7 @@ description: |
   A simple helper program that accesses a Tinkerforge NFC sensor and prints out recognized NFC tags on STDOUT.
 
 authors:
-  - Mastory Berlin <info@mastory.de>
+  - Felix Schwarz <felix@mastory.de>
 
 targets:
   nfcreader-tf:
@@ -13,7 +13,7 @@ targets:
 
 dependencies:
   tinkerforge:
-    github: felitarou/tinkerforge
+    github: feritarou/tinkerforge
 
 crystal: 0.35.1
 

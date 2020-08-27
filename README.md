@@ -39,7 +39,7 @@ by simply pressing Ctrl+C.
 
 ## Contributing
 
-1. Fork it (<https://github.com/mastoryberlin/nfcreader-tf/fork>)
+1. Fork it (<https://github.com/feritarou/nfcreader-tf/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -47,4 +47,4 @@ by simply pressing Ctrl+C.
 
 ## Contributors
 
-- [Mastory Berlin](https://github.com/mastoryberlin) - creator and maintainer
+- [Felix Schwarz](https://github.com/feritarou) - creator and maintainer
