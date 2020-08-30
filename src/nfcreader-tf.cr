@@ -110,6 +110,7 @@ module NfcReaderTf
           case pattern.downcase
           when "off"
             sensor.as(TF::NfcBricklet).mode = :off
+            @@last_tag = ""
           when "on"
             sensor.as(TF::NfcBricklet).mode = :reader
           when "exit"
